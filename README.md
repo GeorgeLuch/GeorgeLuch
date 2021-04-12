@@ -2,8 +2,10 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=GeorgeLuch&label=Profile%20views&color=0e75b6&style=social" alt="George Luchtenberg Fortunato" />
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/george-luchtenberg-fortunato-bb66a170/) 
 
+<a href="https:linkedin.com/in/george-luchtenberg-fortunato-bb66a170">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 
 Me chamo George Luchtenberg Fortunato, formado em Técnico em Mecatrônia, 30 anos de idade, estudante de Analise e Desenvolvimento de Sistemas na UniDomBosco.
@@ -12,6 +14,8 @@ Me chamo George Luchtenberg Fortunato, formado em Técnico em Mecatrônia, 30 an
 ## Área atual:
 :blush: Atualmente trabalho como Trainne em Java na empresa Foursys.
 
+## Contato:
+linkedin - https:linkedin.com/in/george-luchtenberg-fortunato-bb66a170/
 
 
 ## Ferramentas utilizadas:
