@@ -15,7 +15,8 @@ Me chamo George Luchtenberg Fortunato, formado em Técnico em Mecatrônia, 30 an
 :blush: Atualmente trabalho como Trainne em Java na empresa Foursys.
 
 ## Contato:
-linkedin - https:linkedin.com/in/george-luchtenberg-fortunato-bb66a170/
+linkedin - https://www.linkedin.com/in/george-luchtenberg-fortunato-bb66a170/
+
 
 
 ## Ferramentas utilizadas:
